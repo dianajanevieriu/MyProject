@@ -1,0 +1,18 @@
+{
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "diana",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "classmap": ["Classes"]
+  },
+  "require": {
+    "phpmailer/phpmailer": "^6.8",
+    "tecnickcom/tcpdf": "^6.6"
+  }
+}
